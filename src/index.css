@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .inputDiv {
+    @apply flex flex-col sm:gap-2;
+  }
+  .input {
+    @apply rounded-lg bg-zinc-200 px-4 py-2;
+  }
+}
