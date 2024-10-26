@@ -1,7 +1,7 @@
 # CV-Application
 
 An interactive resume builder created with React that allows users to easily create and edit professional CVs. This project is a React practice assignment from The Odin Project (TOP) curriculum.
-[LIVE SITE DEMO](https://ru4s93m6.github.io/cv-application/)
+[LIVE SITE DEMO](https://react-cv-application-builder.netlify.app/)
 
 ## Skills used
 
